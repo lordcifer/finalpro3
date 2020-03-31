@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>aspnet-SistemaFacturacion-294F1C22-B095-4D67-BC88-5EC163A52575</UserSecretsId>
+    <UserSecretsId>aspnet-SistemaFacturacion-42CDBBC7-EB82-4E13-984B-DCCF4A89BE58</UserSecretsId>
   </PropertyGroup>
 
 
@@ -13,11 +13,6 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
-  </ItemGroup>
-
-
-  <ItemGroup>
-    <Folder Include="Areas\Users\Data\" />
   </ItemGroup>
 
 </Project>

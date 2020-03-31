@@ -150,11 +150,7 @@ C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturaci
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\SistemaFacturacion.csprojAssemblyReference.cache
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\SistemaFacturacion.csproj.CoreCompileInputs.cache
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\SistemaFacturacion.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\SistemaFacturacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\Users.cshtml.g.cs
-C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\ViewStart.cshtml.g.cs
-C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Pages\Account\Register.cshtml.g.cs
-C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Pages\ViewImports.cshtml.g.cs
-C:\Users\XLEGENDW\Desktop\profinal\finalpro3\SistemaFacturacion\SistemaFacturacion\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Pages\ViewStart.cshtml.g.cs
